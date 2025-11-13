@@ -37,9 +37,10 @@ while True:
     s.send("Acknowledgement Recived frome the server".encode())
 ```
 ## OUTPUT:
-
+### CLIENT:
 <img width="788" height="335" alt="client" src="https://github.com/user-attachments/assets/cfa436b5-88c8-49e9-aa26-2d6ed9609084" />
 
+### SERVER:
 <img width="1428" height="408" alt="server" src="https://github.com/user-attachments/assets/0b32a9b6-6f68-4520-8d4e-12cfda6f8dbe" />
 
 
